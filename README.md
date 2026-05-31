@@ -13,8 +13,7 @@ A portfolio project demonstrating AI tool setup, developer workflow, and technic
 - **Cursor IDE**: AI-powered code editor (cursor.com)
 - **Claude Code** (Cursor extension): AI coding assistant by Anthropic, 
   authenticated via claude.ai account
-- **Codex**: (Cursor extension): AI coding assistant by OpenAI, 
-  authenticated via chatgpt account
+- **Codex** (Cursor extension): AI coding agent by OpenAI, installed manually after extension panel installation failed
 
 ---
 
@@ -35,7 +34,7 @@ A portfolio project demonstrating AI tool setup, developer workflow, and technic
 - Searched for "Codex" in Cursor's Extensions panel
 - Found "Codex, OpenAI's coding agent" but installation failed with the error:
   *"Error while installing 'Codex – OpenAI's coding agent' extension."*
-- Resolved it by attempting manual installation via terminal and then tried installing and it worked.
+- Resolved by running the manual install script from OpenAI's website via terminal, after which the extension became functional
 
 ### Claude Code Sign In
 - Claude Code extension did not automatically open browser for authentication
