@@ -39,7 +39,7 @@ A portfolio project demonstrating AI tool setup, developer workflow, and technic
 ### Claude Code Sign In
 - Claude Code extension did not automatically open browser for authentication
 - Resolved by manually triggering sign in via `Ctrl+Shift+P` → 
-  "Claude Code: Sign In
+  "Claude Code: Sign In"
 ---
 
 ## Notes
