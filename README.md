@@ -33,13 +33,9 @@ A portfolio project demonstrating AI tool setup, developer workflow, and technic
 
 ### Codex Extension
 - Searched for "Codex" in Cursor's Extensions panel
-- Found "Codex – OpenAI's coding agent" but installation failed with the error:
+- Found "Codex, OpenAI's coding agent" but installation failed with the error:
   *"Error while installing 'Codex – OpenAI's coding agent' extension."*
-- Attempted manual installation via terminal — also failed with 
-  `curl: (23) Failure writing output to destination`
-- Researched further and determined this is OpenAI's CLI tool, likely not 
-  the intended extension
-- Decision: ran it in my terminal and then tried installing and it worked.
+- Resolved it by attempting manual installation via terminal and then tried installing and it worked.
 
 ### Claude Code Sign In
 - Claude Code extension did not automatically open browser for authentication
