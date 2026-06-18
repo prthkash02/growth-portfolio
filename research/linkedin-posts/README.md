@@ -2,6 +2,6 @@
 
 Recent LinkedIn posts from the experts in [`../sources.md`](../sources.md), organized one file per author.
 
-Collection method: manual copy (LinkedIn is auth-walled and scraping it breaks against their ToS), with the original post permalink + date saved at the top of each entry.
+Collection method: posts collected from each author's public LinkedIn activity, with the original permalink + approximate date saved on each entry. (LinkedIn is login-walled and scraping its feed breaks against their ToS, so this was done from public post URLs rather than an automated scraper.)
 
-> Filling this in tomorrow — 3–5 recent posts per author.
+Collected: Leslie Venetz, Will Allred, Jed Mahrle, Thibaut Souyris, Josh Braun, Jason Bay, Nick Cegelski, Florin Tatulea.

@@ -59,7 +59,7 @@ I come from a sales background, so I can actually *judge* outreach advice instea
 - [`youtube-transcripts/`](research/youtube-transcripts) — full talk/interview transcripts (pulled via API).
 - [`linkedin-posts/`](research/linkedin-posts) — recent posts, organized per author.
 - [`other/newsletters/`](research/other/newsletters) — newsletter/framework material.
-- [`other/fact-check.md`](research/other/fact-check.md) — independent verification of 9 specific claims.
+- [`other/fact-check.md`](research/other/fact-check.md) — independent verification of 10 specific claims.
 - [`synthesis.md`](research/synthesis.md) — my point of view tying it all together (the seed of a real playbook).
 
 ## The 10 experts (and the one-line reason)
@@ -74,11 +74,13 @@ I come from a sales background, so I can actually *judge* outreach advice instea
 9. **Thibaut Souyris** — creative outreach (video/voice) AI can't fully replicate.
 10. **Becc Holland** (Flip the Script) — personalization (1:1) vs. relevance (1:many) — the key idea.
 
-## What I collected (so far)
+## What I collected
 - **6 talk/interview transcripts** — Kyle Coleman, Jason Bay (~2,800 lines), Josh Braun (x2), Becc Holland (x2).
-- **2 newsletter/framework writeups** — the 30MPC cold-calling framework (full) and Florin Tatulea's Substack summaries.
-- **LinkedIn posts** — per-author (Will Allred, Leslie Venetz, Thibaut Souyris, Jed Mahrle).
-- **9 fact-checked claims** + **a synthesis POV**.
+- **~22 LinkedIn posts across 8 authors** — Leslie Venetz, Will Allred, Jed Mahrle, Thibaut Souyris, Josh Braun, Jason Bay, Nick Cegelski, Florin Tatulea (organized one file per author).
+- **Newsletter / framework material** — the full 30MPC cold-calling framework + Florin Tatulea's *Prospecting from the Trenches* summaries and podcast.
+- **10 fact-checked claims** (`other/fact-check.md`) + **a synthesis POV** (`synthesis.md`).
+
+**Coverage:** all 10 experts have at least one collected artifact; most have two or more (e.g. transcript + LinkedIn, or framework + LinkedIn).
 
 ## Tools & methods
 - **`scripts/get_transcript.py`** — I wrote a small Python tool (using `youtube-transcript-api`) to pull YouTube transcripts into clean, headed Markdown, organized by author.

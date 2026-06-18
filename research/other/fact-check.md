@@ -20,6 +20,7 @@ The most useful distinction I found: separate **independently verifiable facts**
 | 7 | Florin Tatulea's "Menu of Pain" opener drove a **50% conversion** in a week; SDRs make **500–800 dials/week** | 🟡 | Self-reported in his newsletter; the 50% is a single-week, small-sample anecdote — useful as a tactic to test, not a benchmark to expect. |
 | 8 | Kyle Coleman's AI "CopyEye" workflow cut email drafting from **15–30 min to 3–5 min** | 🟡 | His own reported workflow result. Believable direction (AI drafting does save time) but the exact numbers are unverifiable and depend on his setup. |
 | 9 | *Cold Calling Sucks*: top reps **"book 1 meeting for every 3 connected cold calls"** | 🟡 | This is the authors' framing of top-10% performance, drawn from their data — reasonable, but it's their interpretation, and "connected" calls (not dials) is doing a lot of work in that ratio. |
+| 10 | Florin Tatulea: a vendor/contract-renewal signal play **"converts at 5x standard outbound rates"** | 🟡 | Self-reported from his own GTM Studio build; no baseline or sample size given. Plausible *direction* (timing-based outreach to in-market accounts should beat spray-and-pray) but "5x" is a marketing number until tested on our own data. |
 
 ## What this tells me (the judgment layer)
 - The **structural/biographical** claims (acquisitions, book status, dataset sizes) all check out — these people are who they say they are. Good sign for source quality.
