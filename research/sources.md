@@ -1,10 +1,10 @@
-# Sources: Cold Outreach Pipeline for B2B SaaS
+# Sources for the topic "Cold Outreach Pipeline for B2B SaaS"
 
 **Topic:** Cold outreach pipeline for B2B SaaS, viewed through an AI-native lens, how AI is changing prospecting, personalization, and sequencing, and where it helps vs. where it just adds noise.
 
 **Why this topic:** I come from a sales background, so I can actually judge whether outreach advice is good or just loud, which is the point of this exercise. The goal isn't to collect the most content; it's to collect the *highest-signal* practitioners and form a point of view from the tension between them.
 
-## How I chose these 10
+## My reasons for choosing these 10:
 
 - **Practitioners, not pundits**: every person here has shipped real outbound (built SDR teams, run agencies, or built the tooling), not just written about it.
 - **Spread across content types**: podcasts, YouTube, newsletters, LinkedIn, so the research has range, not just one source format.
@@ -18,7 +18,7 @@
 - **Collect:** 3–5 LinkedIn posts; 1 podcast/interview clip.
 - **Why high-signal:** The clearest voice on *why* most cold outreach gets ignored. Anchors the "human relevance" side of the debate.
 
-### 2. Jason Bay 🤖-adjacent
+### 2. Jason Bay 
 - **Proof:** Founder of Outbound Squad; trained 20,000+ reps at 250+ companies (Shopify, Gong, Zoom, Rippling). Host of the Outbound Squad podcast (400+ episodes).
 - **Links:** [LinkedIn](https://www.linkedin.com/in/jasondbay) · [Podcast](https://outboundsquad.com/podcast/)
 - **Collect:** 1–2 podcast episodes (cold-call framework episodes) + LinkedIn posts.
