@@ -1,16 +1,14 @@
-# Sources — Cold Outreach Pipeline for B2B SaaS
+# Sources: Cold Outreach Pipeline for B2B SaaS
 
-**Topic:** Cold outreach pipeline for B2B SaaS, viewed through an AI-native lens — how AI is changing prospecting, personalization, and sequencing, and where it helps vs. where it just adds noise.
+**Topic:** Cold outreach pipeline for B2B SaaS, viewed through an AI-native lens, how AI is changing prospecting, personalization, and sequencing, and where it helps vs. where it just adds noise.
 
-**Why this topic:** I come from a sales background, so I can actually judge whether outreach advice is good or just loud — which is the point of this exercise. The goal isn't to collect the most content; it's to collect the *highest-signal* practitioners and form a point of view from the tension between them.
+**Why this topic:** I come from a sales background, so I can actually judge whether outreach advice is good or just loud, which is the point of this exercise. The goal isn't to collect the most content; it's to collect the *highest-signal* practitioners and form a point of view from the tension between them.
 
 ## How I chose these 10
 
-- **Practitioners, not pundits** — every person here has shipped real outbound (built SDR teams, run agencies, or built the tooling), not just written about it.
-- **Spread across content types** — podcasts, YouTube, newsletters, LinkedIn — so the research has range, not just one source format.
-- **A built-in disagreement** — roughly half preach *genuine human relevance / anti-spam* (Braun, Venetz, Holland) and half preach *AI personalization at scale* (Allred, Coleman, Mahrle). The playbook this research feeds will live in resolving that tension: **AI as a superpower, not a crutch.**
-
-Legend: 🤖 = explicitly AI-native voice.
+- **Practitioners, not pundits**: every person here has shipped real outbound (built SDR teams, run agencies, or built the tooling), not just written about it.
+- **Spread across content types**: podcasts, YouTube, newsletters, LinkedIn, so the research has range, not just one source format.
+- **A built-in disagreement**: roughly half preach *genuine human relevance / anti-spam* (Braun, Venetz, Holland) and half preach *AI personalization at scale* (Allred, Coleman, Mahrle). The playbook this research feeds will live in resolving that tension: **AI as a superpower, not a crutch.**
 
 ---
 
@@ -24,19 +22,19 @@ Legend: 🤖 = explicitly AI-native voice.
 - **Proof:** Founder of Outbound Squad; trained 20,000+ reps at 250+ companies (Shopify, Gong, Zoom, Rippling). Host of the Outbound Squad podcast (400+ episodes).
 - **Links:** [LinkedIn](https://www.linkedin.com/in/jasondbay) · [Podcast](https://outboundsquad.com/podcast/)
 - **Collect:** 1–2 podcast episodes (cold-call framework episodes) + LinkedIn posts.
-- **Why high-signal:** Frameworks are concrete and repeatable — exactly what a "playbook" needs.
+- **Why high-signal:** Frameworks are concrete and repeatable, exactly what a "playbook" needs.
 
-### 3. Will Allred 🤖
+### 3. Will Allred 
 - **Proof:** Co-founder of **Lavender** (AI cold-email coaching tool built on billions of analyzed emails). Posts live cold-email teardowns.
 - **Links:** [LinkedIn](https://www.linkedin.com/in/williamallred/)
 - **Collect:** 4–5 LinkedIn teardown posts.
 - **Why high-signal:** Data-backed email opinions + an AI-native vantage point. Anchors the "AI at scale" side.
 
-### 4. Jed Mahrle 🤖
+### 4. Jed Mahrle 
 - **Proof:** Founder of Practical Prospecting; scaled PandaDoc's SDR org; newsletter trusted by 30,000+ reps. Runs done-for-you cold email + LinkedIn automation.
 - **Links:** [LinkedIn](https://www.linkedin.com/in/outboundsales) · [Newsletter](https://content.practicalprospecting.io/)
 - **Collect:** 2 newsletter issues + LinkedIn posts (esp. AI/cold-email ones).
-- **Why high-signal:** Bridges human craft and automation — the exact tension this project is about.
+- **Why high-signal:** Bridges human craft and automation, the exact tension this project is about.
 
 ### 5. Leslie Venetz
 - **Proof:** Founder, The Sales-Led GTM Agency; USA Today bestselling author (*Profit-Generating Pipeline*); 250,000+ personal cold calls; LinkedIn Top Voice for Sales.
@@ -50,13 +48,13 @@ Legend: 🤖 = explicitly AI-native voice.
 - **Collect:** 1–2 podcast episodes (cold-call tactics) + LinkedIn posts.
 - **Why high-signal:** Data-backed, tactic-level, no-fluff. Great raw material for a "what actually works on the phone" section.
 
-### 7. Florin Tatulea 🤖
+### 7. Florin Tatulea 
 - **Proof:** GTM Engineering @ ZoomInfo (ex-Head of Sales Dev @ Common Room, where he 20x'd outbound pipeline using AI agents). Writes *Prospecting from the Trenches*.
 - **Links:** [LinkedIn](https://www.linkedin.com/in/florintatulea/) · [Substack](https://salesflo.substack.com/)
 - **Collect:** 2 Substack issues + LinkedIn posts on AI/GTM engineering.
 - **Why high-signal:** One of the few people actually *building* AI-agent outbound systems, not just talking about them.
 
-### 8. Kyle Coleman 🤖
+### 8. Kyle Coleman 
 - **Proof:** VP Marketing @ ClickUp; ex-CMO of Copy.ai (the GTM AI platform); led SDR + growth at Clari through ~10x ARR.
 - **Links:** [LinkedIn](https://www.linkedin.com/in/kyletcoleman/) · [YouTube talk: AI for prospecting executives](https://www.youtube.com/watch?v=7OdRu6_YqGc)
 - **Collect:** 1 YouTube talk transcript + LinkedIn posts.
@@ -66,13 +64,13 @@ Legend: 🤖 = explicitly AI-native voice.
 - **Proof:** Tech-sales trainer; co-host of The B2B Sales Podcast. Reports 38% reply / 27% meeting rates using creative outreach (video, LinkedIn voice notes).
 - **Links:** [LinkedIn](https://www.linkedin.com/in/thibautsouyris/)
 - **Collect:** LinkedIn posts + 1 podcast episode.
-- **Why high-signal:** Concrete creative formats (video/voice) that AI can't fully replicate — a useful counterweight to pure automation.
+- **Why high-signal:** Concrete creative formats (video/voice) that AI can't fully replicate, a useful counterweight to pure automation.
 
 ### 10. Becc Holland
 - **Proof:** Founder/CEO of Flip the Script; widely cited framework separating *personalization* (1:1) from *relevance* (1:many), with four relevance types.
 - **Links:** [LinkedIn](https://www.linkedin.com/in/beccholland-flipthescript/) · [flipthescript.com](https://www.flipthescript.com/)
 - **Collect:** 1 YouTube/webinar transcript + LinkedIn posts.
-- **Why high-signal:** Her personalization-vs-relevance distinction is the intellectual key to the whole AI-at-scale debate — it tells you *what* AI should actually be automating.
+- **Why high-signal:** Her personalization-vs-relevance distinction is the intellectual key to the whole AI-at-scale debate, it tells you *what* AI should actually be automating.
 
 ---
 
