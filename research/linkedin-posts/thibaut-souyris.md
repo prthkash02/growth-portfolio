@@ -37,3 +37,28 @@ Sales trainer, founder of SalesLabs, co-host of The B2B Sales Podcast; known for
 2. **Enabled transfer of ownership** — got introduced to the Above-The-Line buyer, built the plan together (led to expanded scope).
 3. **Set an implementation date before closing** — built a plan with start date + deliverables; asked ATL for "homework," which came back with the signed contract attached.
 4. **Managed all stakeholders** — in a competitive deal, identified champions/influencers and kept them updated on progress.
+
+---
+
+## 4. Outbound doesn't have to be hard (the simple version)
+**Posted:** ~2025 · [permalink](https://www.linkedin.com/posts/thibautsouyris_outbound-prospecting-doesnt-have-to-be-that-ugcPost-7317533103185412098-7oGt)
+
+To make it easier:
+- **Mix strangers and people you know.**
+- **Define a daily activity target** (and stick to it) — his "cruising altitude calculator": the daily prospect count needed to hit your goal.
+- **Iterate every 2 weeks**, changing **one variable at a time.**
+
+> "Outbound is never about spamming your market with the latest AI tools. It's about starting genuine conversations proactively, when everyone else is just trying to generate leads."
+
+His sequence in the demo: LinkedIn connection → message → follow-up bump, personalized for both acquaintances and new prospects.
+
+---
+
+## 5. How he's approaching outbound in 2026 (vs. 2025)
+**Posted:** ~2026 · [permalink](https://www.linkedin.com/posts/thibautsouyris_heres-how-im-approaching-outbound-in-2026-share-7415003826782519296-dGqn)
+
+1. **Contact people he knows** — posting daily on LinkedIn since Dec 2019 (43,650+ followers) made his **network the biggest source of opportunities**; when he needs to reach someone, they're often already connected.
+2. **Focus on introductions** — when not connected to the right person, lean on someone who can intro him.
+3. **Use accurate data (FullEnrich) only when intros aren't possible** — e.g. reaching B2C brands cold; waterfall enrichment across 20+ providers for mobile numbers/emails.
+
+> The throughline: **relationships and warm paths first; cold + data only as the fallback** — a notable stance from someone known for cold creativity.
