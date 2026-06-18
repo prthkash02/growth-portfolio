@@ -1,4 +1,4 @@
-# Sources — Cold Outreach for B2B SaaS
+# Sources: Cold Outreach for B2B SaaS
 
 Quick note on what this is. I picked cold outreach for B2B SaaS, but I looked at it through an AI lens: where is AI actually changing how people prospect, and where is it just adding more noise to everyone's already-full inbox?
 

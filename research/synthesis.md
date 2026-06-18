@@ -1,41 +1,42 @@
-# Synthesis — Cold Outreach for B2B SaaS in the AI Era
+# Synthesis: Cold Outreach for B2B SaaS in the AI Era
 
-*A point of view built from the 10 experts in [`sources.md`](sources.md). This is the seed of the actual playbook the brief asks for later.*
+This is my point of view after going through all 10 experts in [`sources.md`](sources.md). It's the rough seed of the playbook the brief mentions building later.
 
 ## The tension I kept running into
 
-Read these ten practitioners back-to-back and they split into two camps that seem to contradict each other:
+If you read these ten people back to back, they basically split into two camps that seem to contradict each other.
 
-- **The human-relevance camp** — Josh Braun, Leslie Venetz, Becc Holland, Thibaut Souyris. Their message: outreach works when it's *relevant and human*. Braun's whole method is removing "commission breath"; Souyris wins with video and voice notes; Venetz pushes omnichannel, earn-the-right outreach.
-- **The AI-at-scale camp** — Will Allred (Lavender), Kyle Coleman (Copy.ai), Jed Mahrle, Florin Tatulea. Their message: AI lets you research and personalize at *volume* — GTM engineering, AI SDRs, scripts that scale.
+One camp is about being human. Josh Braun, Leslie Venetz, Becc Holland, and Thibaut Souyris all land in roughly the same place: outreach works when it's relevant and actually human. Braun's whole method is about removing "commission breath." Souyris wins with video and voice notes. Venetz pushes multi-touch, earn-the-right outbound.
 
-The lazy read is "pick a side." The job description's own phrase — **"AI as a superpower, not a crutch"** — says don't.
+The other camp is about scale. Will Allred (Lavender), Kyle Coleman (Copy.ai), Jed Mahrle, and Florin Tatulea are all some version of "AI lets you research and personalize at volume," whether that's GTM engineering, AI SDRs, or scripts that scale.
 
-## The bridge: Becc Holland's personalization vs. relevance
+The easy move is to pick a side. But the job description's own line, "AI as a superpower, not a crutch," basically says don't. So I tried to find where both camps are actually right.
 
-The most useful idea in everything I collected is Becc Holland's distinction (from her Flip the Script sessions):
+## The idea that bridges them: Becc Holland's personalization vs. relevance
 
-- **Personalization = 1:1** — something true about *this one person*.
-- **Relevance = 1:many** — something true about a *segment* (firmographic, demographic, technographic, trigger-based).
+The single most useful thing I collected is a distinction Becc Holland makes:
 
-That distinction quietly resolves the whole debate:
+- Personalization is 1:1. Something true about this one specific person.
+- Relevance is 1:many. Something true about a segment (firmographic, demographic, technographic, or trigger-based).
 
-> **AI is excellent at relevance at scale. Humans still win on true 1:1 personalization for the accounts that matter.**
+Once you split those two apart, the whole AI debate kind of answers itself:
 
-Lavender analyzing 2B+ emails (fact-checked ✅) and Kyle Coleman's AI research workflows are *relevance engines* — they make 1:many feel tailored. But the reply-getting "I watched your podcast episode and you said X" moment is still human work, and it should be spent only where the deal size justifies it.
+> AI is excellent at relevance at scale. Humans still win on true 1:1 personalization for the accounts that are actually worth it.
 
-## My working model (the playbook spine)
+Lavender analyzing 2B+ emails (which I confirmed, see the fact-check) and Kyle Coleman's AI research workflows are basically relevance engines. They make 1:many feel tailored. But the line that actually gets a reply, the "I heard you say X on that podcast" moment, is still human work. And you only have time to do that for the accounts where the deal size justifies it.
+
+## My working model (the spine of the playbook)
 
 | Tier | Who | Approach | Whose tactics |
 |------|-----|----------|---------------|
-| **High-value accounts** | Top ~10% target list | Human 1:1 personalization, multichannel (Souyris's video/voice, Braun's "poke the bear") | Braun, Souyris, Venetz |
-| **Core volume** | The bulk of the ICP | AI-driven *relevance at scale* — trigger-based, technographic, segment-tailored | Allred, Coleman, Tatulea, Mahrle |
-| **The call** | Every connected dial | 30MPC framework: earn the first 60 seconds, problem proposition, Mr. Miyagi objections | Cegelski/Farrokh, Bay |
+| High-value accounts | Top ~10% of the target list | Human 1:1 personalization, multichannel (Souyris's video/voice, Braun's "poke the bear") | Braun, Souyris, Venetz |
+| Core volume | The bulk of the ICP | AI-driven relevance at scale: trigger-based, technographic, segment-tailored | Allred, Coleman, Tatulea, Mahrle |
+| The call | Every connected dial | 30MPC framework: earn the first 60 seconds, problem proposition, Mr. Miyagi objections | Cegelski/Farrokh, Bay |
 
-And the guardrail, straight from the fact-check: **borrow the frameworks, re-verify the numbers on our own funnel.** Almost every performance stat these experts quote is self-reported (see [`fact-check.md`](other/fact-check.md)) — useful as hypotheses to A/B test, not benchmarks to assume.
+One guardrail, straight out of the fact-check: borrow the frameworks, but re-verify the numbers on your own funnel. Almost every performance stat these experts quote is self-reported (see [`fact-check.md`](other/fact-check.md)), so treat them as things to A/B test, not benchmarks to count on.
 
-## Where the experts actually agree (the non-obvious part)
+## Where they actually agree (the part I didn't expect)
 
-Both camps converge on one thing: **generic outreach is dead.** Braun hates it because it's spammy; Mahrle warns AI SDRs are *commoditizing* it. The threat isn't "AI vs. human" — it's *undifferentiated* outreach from either source. The winning move is using AI to clear the busywork so the human judgment (which segment, which trigger, which message) gets *more* attention, not less.
+For all the disagreement, both camps converge on one thing: generic outreach is dead. Braun hates it because it's spammy. Mahrle warns that AI SDRs are commoditizing it. So the real threat was never "AI vs. human," it's undifferentiated outreach, no matter who or what writes it. The winning move is using AI to clear the busywork so the human judgment (which segment, which trigger, which message) gets more attention, not less.
 
 That's the thesis I'd build the full playbook on.
