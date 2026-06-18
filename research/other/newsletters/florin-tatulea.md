@@ -1,4 +1,4 @@
-# Florin Tatulea — Prospecting from the Trenches (Substack)
+# Florin Tatulea: Prospecting from the Trenches (Substack)
 
 > Note: Florin's Substack is mostly paywalled. Captured below are the publicly available previews/summaries of two recent issues. His fuller tactical content is on LinkedIn ([profile](https://www.linkedin.com/in/florintatulea/)).
 
@@ -14,7 +14,7 @@ Florin introduces a cold-calling technique called the **"Menu of Pain"** that he
 - **URL:** https://salesflo.substack.com/p/98-how-to-make-a-random-cold-call
 - **Date:** Mar 6, 2025
 
-At 500–800 calls/week (via Nooks), thorough per-prospect research doesn't scale. Florin's management lesson: **make your scripts scale and work well** — design a scalable script that *sounds* well-researched despite high volume. Includes a script example (paywalled).
+At 500-800 calls/week (via Nooks), thorough per-prospect research doesn't scale. Florin's management lesson: **make your scripts scale and work well**: design a scalable script that *sounds* well-researched despite high volume. Includes a script example (paywalled).
 
 ## #68: This Is The NEW Outbound Playbook
 - **URL:** https://salesflo.substack.com/p/68-this-is-the-new-outbound-playbook
@@ -26,8 +26,8 @@ Introduces a **signal-led outbound** framework with a market-segmentation model:
 - **URL:** https://www.attention.com/pay-attention/ep-2-how-to-win-in-outbound-sales-with-florin-tatulea
 - **Date:** May 13, 2024
 
-Topics: career in startup sales orgs, outbound methodologies, the upsides **and drawbacks** of sales automation, and practical cold-calling tactics. (Audio only — no public transcript.)
+Topics: career in startup sales orgs, outbound methodologies, the upsides **and drawbacks** of sales automation, and practical cold-calling tactics. (Audio only, no public transcript.)
 
 ---
 
-**Relevance to thesis:** Florin sits firmly in the AI-at-scale / GTM-engineering camp — but note he openly discusses the *drawbacks* of automation. His best content (see his [LinkedIn post](../../linkedin-posts/florin-tatulea.md)) is a signal-based play where AI handles timing/research and the human runs the conversation. That's exactly the project's core tension resolved in practice.
+**Relevance to thesis:** Florin sits firmly in the AI-at-scale / GTM-engineering camp, but note he openly discusses the *drawbacks* of automation. His best content (see his [LinkedIn post](../../linkedin-posts/florin-tatulea.md)) is a signal-based play where AI handles timing/research and the human runs the conversation. That's exactly the project's core tension resolved in practice.

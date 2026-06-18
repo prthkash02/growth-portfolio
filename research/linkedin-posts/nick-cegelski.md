@@ -1,4 +1,4 @@
-# Nick Cegelski — LinkedIn Posts
+# Nick Cegelski: LinkedIn Posts
 
 Founder of 30 Minutes to President's Club; co-author of *Cold Calling Sucks*. Collected from his public LinkedIn activity. See annotation in [`../sources.md`](../sources.md). (Also covered by the 30MPC framework in [`../other/newsletters/30mpc-cold-calling-framework.md`](../other/newsletters/30mpc-cold-calling-framework.md).)
 
@@ -14,7 +14,7 @@ An opener that makes them forget it's a cold call. 3 steps:
 
 > "Danielle, we work with a few other Home Cares in Eastern PA. It's Nick from Vitable… Heard the name tossed around?"
 
-The point: unless you work at Microsoft, they won't have heard your name — that's not the goal. By mentioning you work with their **peers**, you stop being a random cold caller and position yourself as someone in (or adjacent to) their network, much harder to dismiss. *(This is the same opener detailed in the 30MPC framework — good corroboration.)*
+The point: unless you work at Microsoft, they won't have heard your name, that's not the goal. By mentioning you work with their **peers**, you stop being a random cold caller and position yourself as someone in (or adjacent to) their network, much harder to dismiss. *(This is the same opener detailed in the 30MPC framework, good corroboration.)*
 
 ---
 
@@ -22,9 +22,9 @@ The point: unless you work at Microsoft, they won't have heard your name — tha
 **Posted:** ~2026 · [permalink](https://www.linkedin.com/posts/nick-cegelski_i-love-kade-hinkles-unconventional-cold-ugcPost-7451042253596278784-oztd)
 
 3 things that make it work:
-1. **A one-word opener** — literally just the prospect's name ("Alex?"). Based on how they respond (guarded, friendly, curious), he calibrates pacing & tonality to match.
-2. **"I'm calling to book a meeting with you"** — the 2nd thing he says; 99% respond "About what?", which opens the door to the pitch.
-3. **It's different** — he invented his own strategy rather than copying a permission-based opener.
+1. **A one-word opener**: literally just the prospect's name ("Alex?"). Based on how they respond (guarded, friendly, curious), he calibrates pacing & tonality to match.
+2. **"I'm calling to book a meeting with you"**: the 2nd thing he says; 99% respond "About what?", which opens the door to the pitch.
+3. **It's different**: he invented his own strategy rather than copying a permission-based opener.
 
 > "You can't be perceived to be better until you're first perceived to be different."
 
