@@ -53,12 +53,13 @@ def main() -> None:
     vid = video_id(raw)
 
     try:
-        chunks = YouTubeTranscriptApi.get_transcript(vid)
+        fetched = YouTubeTranscriptApi().fetch(vid)
     except Exception as e:  # transcript disabled, no captions, etc.
         sys.exit(f"Could not fetch transcript for {vid}: {e}\n"
                  f"Fallback: yt-dlp --write-auto-sub --skip-download {raw}")
 
-    body = "\n".join(c["text"].strip() for c in chunks if c["text"].strip())
+    snippets = list(fetched)
+    body = "\n".join(s.text.strip() for s in snippets if s.text.strip())
 
     out_dir = OUT_ROOT / slug(author)
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -72,7 +73,7 @@ def main() -> None:
         f"---\n\n"
     )
     out_path.write_text(header + body + "\n", encoding="utf-8")
-    print(f"Saved {len(chunks)} lines -> {out_path.relative_to(OUT_ROOT.parent.parent)}")
+    print(f"Saved {len(snippets)} lines -> {out_path.relative_to(OUT_ROOT.parent.parent)}")
 
 
 if __name__ == "__main__":
