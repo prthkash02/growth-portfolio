@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-get_transcript.py — pull a YouTube transcript into a clean Markdown file.
+get_transcript.py: pull a YouTube transcript into a clean Markdown file.
 
 Used to collect talks/interviews from the experts in research/sources.md
 (e.g. Kyle Coleman's AI-prospecting talk, Becc Holland's Flip the Script
